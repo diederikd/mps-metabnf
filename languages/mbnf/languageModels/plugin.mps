@@ -285,7 +285,6 @@
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
       <concept id="1179409122411" name="jetbrains.mps.lang.smodel.structure.Node_ConceptMethodCall" flags="nn" index="2qgKlT" />
       <concept id="559557797393017698" name="jetbrains.mps.lang.smodel.structure.ModelReferenceExpression" flags="nn" index="BaHAS">
-        <property id="559557797393041554" name="fqName" index="BaBD8" />
         <property id="559557797393021807" name="stereotype" index="BaGAP" />
         <property id="559557797393017702" name="name" index="BaHAW" />
       </concept>
@@ -855,43 +854,40 @@
               </node>
             </node>
             <node concept="3clFbH" id="6ewv3lXctie" role="3cqZAp" />
-            <node concept="3cpWs8" id="75wOK7m75$A" role="3cqZAp">
-              <node concept="3cpWsn" id="75wOK7m75$B" role="3cpWs9">
+            <node concept="3cpWs8" id="3BmclOL7CJE" role="3cqZAp">
+              <node concept="3cpWsn" id="3BmclOL7CJF" role="3cpWs9">
                 <property role="TrG5h" value="structure" />
                 <property role="3TUv4t" value="true" />
-                <node concept="H_c77" id="75wOK7m75$C" role="1tU5fm" />
-                <node concept="BaHAS" id="75wOK7m75$D" role="33vP2m">
-                  <property role="BaBD8" value="/" />
-                  <property role="BaHAW" value="TestLanguage.structure" />
+                <node concept="H_c77" id="3BmclOL7CJG" role="1tU5fm" />
+                <node concept="BaHAS" id="3BmclOL7D4D" role="33vP2m">
+                  <property role="BaHAW" value="Python.structure" />
                   <property role="BaGAP" value="" />
                 </node>
               </node>
             </node>
-            <node concept="3cpWs8" id="75wOK7m75$E" role="3cqZAp">
-              <node concept="3cpWsn" id="75wOK7m75$F" role="3cpWs9">
+            <node concept="3cpWs8" id="3BmclOL7CJI" role="3cqZAp">
+              <node concept="3cpWsn" id="3BmclOL7CJJ" role="3cpWs9">
                 <property role="TrG5h" value="editors" />
                 <property role="3TUv4t" value="true" />
-                <node concept="H_c77" id="75wOK7m75$G" role="1tU5fm" />
-                <node concept="BaHAS" id="75wOK7m75$H" role="33vP2m">
-                  <property role="BaBD8" value="/" />
-                  <property role="BaHAW" value="TestLanguage.editor" />
+                <node concept="H_c77" id="3BmclOL7CJK" role="1tU5fm" />
+                <node concept="BaHAS" id="3BmclOL7D5y" role="33vP2m">
+                  <property role="BaHAW" value="Python.editor" />
                   <property role="BaGAP" value="" />
                 </node>
               </node>
             </node>
-            <node concept="3cpWs8" id="75wOK7m75$I" role="3cqZAp">
-              <node concept="3cpWsn" id="75wOK7m75$J" role="3cpWs9">
+            <node concept="3cpWs8" id="3BmclOL7CJM" role="3cqZAp">
+              <node concept="3cpWsn" id="3BmclOL7CJN" role="3cpWs9">
                 <property role="TrG5h" value="textgen" />
                 <property role="3TUv4t" value="true" />
-                <node concept="H_c77" id="75wOK7m75$K" role="1tU5fm" />
-                <node concept="BaHAS" id="75wOK7m75$L" role="33vP2m">
-                  <property role="BaBD8" value="/" />
-                  <property role="BaHAW" value="TestLanguage.textGen" />
+                <node concept="H_c77" id="3BmclOL7CJO" role="1tU5fm" />
+                <node concept="BaHAS" id="3BmclOL7D5Z" role="33vP2m">
+                  <property role="BaHAW" value="Python.textGen" />
                   <property role="BaGAP" value="" />
                 </node>
               </node>
             </node>
-            <node concept="3clFbH" id="75wOK7mmx9$" role="3cqZAp" />
+            <node concept="3clFbH" id="3BmclOL7Cs9" role="3cqZAp" />
             <node concept="1u1O0F" id="75wOK7m75$N" role="3cqZAp">
               <property role="h7ZnK" value="Extract models" />
               <node concept="1C$qFY" id="75wOK7m75$O" role="1u1ALe" />
@@ -1241,8 +1237,8 @@
                                                   <node concept="3clFbS" id="75wOK7mpt5J" role="2LFqv$">
                                                     <node concept="3clFbF" id="75wOK7mptb8" role="3cqZAp">
                                                       <node concept="2OqwBi" id="75wOK7mptc2" role="3clFbG">
-                                                        <node concept="37vLTw" id="75wOK7mptb7" role="2Oq$k0">
-                                                          <ref role="3cqZAo" node="75wOK7m75$J" resolve="textgen" />
+                                                        <node concept="37vLTw" id="3BmclOL7ARo" role="2Oq$k0">
+                                                          <ref role="3cqZAo" node="3BmclOL7wfS" resolve="textgen" />
                                                         </node>
                                                         <node concept="3BYIHo" id="75wOK7mptoJ" role="2OqNvi">
                                                           <node concept="2GrUjf" id="75wOK7mptq7" role="3BYIHq">
