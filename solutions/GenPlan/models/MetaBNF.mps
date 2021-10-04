@@ -36,6 +36,20 @@
   </registry>
   <node concept="2VgMpV" id="3tSvZ16jtfV">
     <property role="TrG5h" value="MetaBNF-Plan" />
+    <node concept="3uMcMo" id="NFuhoUO4lP" role="2VgMA7">
+      <node concept="3uMdn$" id="NFuhoUO4m4" role="3uOsAP">
+        <node concept="20RdaH" id="NFuhoUO4m5" role="3uMdmt">
+          <property role="20Rdg5" value="bffd1385-a29f-4b76-bb8a-cfb3227968be" />
+          <property role="20Rdg7" value="jetbrains.mps.baseLanguage.regexp#1174510748147" />
+        </node>
+      </node>
+      <node concept="3uMdn$" id="NFuhoUO4mc" role="3uOsAP">
+        <node concept="20RdaH" id="NFuhoUO4md" role="3uMdmt">
+          <property role="20Rdg5" value="972d5101-8cf0-48c2-aaaa-05901e20b917" />
+          <property role="20Rdg7" value="Demo#01" />
+        </node>
+      </node>
+    </node>
     <node concept="3uMcMo" id="5Dh5jJl1DrD" role="2VgMA7">
       <node concept="3uMdn$" id="5Dh5jJl1DrM" role="3uOsAP">
         <node concept="20RdaH" id="5Dh5jJl1DrN" role="3uMdmt">
